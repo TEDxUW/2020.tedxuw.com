@@ -68,6 +68,11 @@ body {
 	// background-color: green;
 }
 
+#mc_embed_signup {
+	width: 80%;
+	margin-top: 50px;
+}
+
 #email-input {
 	box-sizing: border-box;
 	opacity: 0;
@@ -77,6 +82,17 @@ body {
 	font-family: 'Manrope', sans-serif;
 	font-size: 18px;
 	text-align: center;
+}
+
+.email {
+	box-sizing: border-box;
+	opacity: 0;
+
+	border-radius: 6px;
+	border-width: 0;
+	font-family: 'Manrope', sans-serif;
+	font-size: 18px;
+	text-align: center;	
 }
 
 .submit {
@@ -92,6 +108,20 @@ body {
 	background-color: white;
 }
 
+.button {
+	opacity: 0;
+	margin-left: 5px;
+	height: 100%;
+
+	border-width: 0;
+	border-radius: 6px;
+	font-family: 'Manrope', sans-serif;
+	font-size: 2em;
+	font-weight: 600;
+
+	background-color: white;	
+}
+
 .play {
 	opacity: 0;
 	margin-left: 5px;
@@ -103,6 +133,11 @@ body {
 }
 
 #email-input:focus {
+	outline: none;
+	border:1px solid red;
+}
+
+.email:focus {
 	outline: none;
 	border:1px solid red;
 }
@@ -168,6 +203,10 @@ body {
 	// - this is unique to the preserve-3d transform-style
 	-webkit-transform: translate3d(-50%, -50%, 0);
 	transform: translate3d(-50%, -50%, 0);
+}
+
+.width-100 {
+	width: 100%;
 }
 
 
