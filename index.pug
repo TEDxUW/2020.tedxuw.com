@@ -3,10 +3,10 @@ html
   head
     meta(name='viewport' content='width=device-width,initial-scale=1.0')
     meta(http-equiv='ScreenOrientation' content='autoRotate:disabled')
-    link(rel='stylesheet' href='css/styles.css')
-    link(rel='stylesheet' href='css/font-files/stylesheet.css')
-    link(rel='stylesheet' href='css/font-files/web/index.css')
-    script(src="fitty.min.js")
+    link(rel='stylesheet' href='src/css/styles.css')
+    link(rel='stylesheet' href='src/css/font-files/stylesheet.css')
+    link(rel='stylesheet' href='src/css/font-files/web/index.css')
+    script(src="src/fitty.min.js")
   body
     .wrap
       - var max = 50
@@ -14,9 +14,9 @@ html
         div.tri
         - max--
     .content-container.absolute-center.flex-col-center
-      img.logo.fadeIn(src='assets/Logo.png' alt='logo')
+      img.logo.fadeIn(src='src/assets/Logo.png' alt='logo')
       div.form-container
-        form#email-form.flex-row-center(action='form-to-email.php' method='post')
+        form#email-form.flex-row-center(action='src/form-to-email.php' method='post')
           input#email-input.email-input.stretch(name='EMAIL' type='email' placeholder='email' required='')
           button.submit.appear(type='submit' name='SUBMIT')
             div.play.play-animate

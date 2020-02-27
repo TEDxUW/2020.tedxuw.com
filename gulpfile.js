@@ -5,9 +5,9 @@ const pug = require('gulp-pug');
 const sass = require('gulp-sass');
 
 function pugTask() {
-    return src(['src/*.pug'])
+    return src(['*.pug'])
         .pipe(pug())
-        .pipe(dest("src"));
+        .pipe(dest("."));
         // .pipe(browserSync.stream());
 }
 
@@ -20,15 +20,15 @@ function sassTask() {
 
 function serveTask() {
     browserSync.init({
-        server: "./src"
+        server: "."
     });
 
     pugTask();
     sassTask();
-    watch(['src/*.pug'], series(pugTask));
+    watch(['*.pug'], series(pugTask));
     watch(['src/css/*.scss'], series(sassTask));
     watch("src/css/*.css").on('change', browserSync.reload);
-    watch("src/*.html").on('change', browserSync.reload);
+    watch("*.html").on('change', browserSync.reload);
 }
 
 exports.default = serveTask;
