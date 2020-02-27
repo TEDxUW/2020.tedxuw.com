@@ -18,13 +18,13 @@ body {
   left: 50%; }
 
 .tri:nth-child(1) {
-  border-top: 84px solid #0048ff;
-  border-top: 84px solid white;
-  border-right: 42px solid transparent;
-  border-left: 42px solid transparent;
-  margin-left: -21px;
-  margin-top: -21px;
-  transform: rotate(235deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 42px solid #00ff1a;
+  border-top: 42px solid white;
+  border-right: 21px solid transparent;
+  border-left: 21px solid transparent;
+  margin-left: -10.5px;
+  margin-top: -10.5px;
+  transform: rotate(247deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim1 10s infinite linear;
   animation-delay: 0.2s;
   opacity: 1; }
@@ -32,16 +32,16 @@ body {
 @keyframes anim1 {
   100% {
     opacity: 1;
-    transform: rotate(352.5deg) translate3d(92px, 476px, 1000px) scale(1); } }
+    transform: rotate(370.5deg) translate3d(161px, 886px, 1000px) scale(1); } }
 
 .tri:nth-child(2) {
-  border-top: 6px solid #00f2ff;
-  border-top: 6px solid white;
-  border-right: 3px solid transparent;
-  border-left: 3px solid transparent;
-  margin-left: -1.5px;
-  margin-top: -1.5px;
-  transform: rotate(241deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 40px solid #37ff00;
+  border-top: 40px solid white;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  margin-left: -10px;
+  margin-top: -10px;
+  transform: rotate(148deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim2 10s infinite linear;
   animation-delay: 0.4s;
   opacity: 1; }
@@ -49,16 +49,16 @@ body {
 @keyframes anim2 {
   100% {
     opacity: 1;
-    transform: rotate(361.5deg) translate3d(32px, 607px, 1000px) scale(1); } }
+    transform: rotate(222deg) translate3d(371px, 101px, 1000px) scale(1); } }
 
 .tri:nth-child(3) {
-  border-top: 56px solid #0d00ff;
-  border-top: 56px solid white;
-  border-right: 28px solid transparent;
-  border-left: 28px solid transparent;
-  margin-left: -14px;
-  margin-top: -14px;
-  transform: rotate(194deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 14px solid deepskyblue;
+  border-top: 14px solid white;
+  border-right: 7px solid transparent;
+  border-left: 7px solid transparent;
+  margin-left: -3.5px;
+  margin-top: -3.5px;
+  transform: rotate(80deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim3 10s infinite linear;
   animation-delay: 0.6s;
   opacity: 1; }
@@ -66,16 +66,16 @@ body {
 @keyframes anim3 {
   100% {
     opacity: 1;
-    transform: rotate(291deg) translate3d(860px, 55px, 1000px) scale(1); } }
+    transform: rotate(120deg) translate3d(659px, 900px, 1000px) scale(1); } }
 
 .tri:nth-child(4) {
-  border-top: 80px solid #b3ff00;
-  border-top: 80px solid white;
-  border-right: 40px solid transparent;
-  border-left: 40px solid transparent;
-  margin-left: -20px;
-  margin-top: -20px;
-  transform: rotate(129deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 98px solid #44ff00;
+  border-top: 98px solid white;
+  border-right: 49px solid transparent;
+  border-left: 49px solid transparent;
+  margin-left: -24.5px;
+  margin-top: -24.5px;
+  transform: rotate(237deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim4 10s infinite linear;
   animation-delay: 0.8s;
   opacity: 1; }
@@ -83,16 +83,16 @@ body {
 @keyframes anim4 {
   100% {
     opacity: 1;
-    transform: rotate(193.5deg) translate3d(955px, 111px, 1000px) scale(1); } }
+    transform: rotate(355.5deg) translate3d(96px, 825px, 1000px) scale(1); } }
 
 .tri:nth-child(5) {
-  border-top: 12px solid #ff00c4;
-  border-top: 12px solid white;
-  border-right: 6px solid transparent;
-  border-left: 6px solid transparent;
-  margin-left: -3px;
-  margin-top: -3px;
-  transform: rotate(206deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 18px solid #ddff00;
+  border-top: 18px solid white;
+  border-right: 9px solid transparent;
+  border-left: 9px solid transparent;
+  margin-left: -4.5px;
+  margin-top: -4.5px;
+  transform: rotate(56deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim5 10s infinite linear;
   animation-delay: 1s;
   opacity: 1; }
@@ -100,16 +100,16 @@ body {
 @keyframes anim5 {
   100% {
     opacity: 1;
-    transform: rotate(309deg) translate3d(998px, 232px, 1000px) scale(1); } }
+    transform: rotate(84deg) translate3d(499px, 6px, 1000px) scale(1); } }
 
 .tri:nth-child(6) {
-  border-top: 2px solid #00ff73;
-  border-top: 2px solid white;
-  border-right: 1px solid transparent;
-  border-left: 1px solid transparent;
-  margin-left: -0.5px;
-  margin-top: -0.5px;
-  transform: rotate(351deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 34px solid #8c00ff;
+  border-top: 34px solid white;
+  border-right: 17px solid transparent;
+  border-left: 17px solid transparent;
+  margin-left: -8.5px;
+  margin-top: -8.5px;
+  transform: rotate(276deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim6 10s infinite linear;
   animation-delay: 1.2s;
   opacity: 1; }
@@ -117,16 +117,16 @@ body {
 @keyframes anim6 {
   100% {
     opacity: 1;
-    transform: rotate(526.5deg) translate3d(987px, 1px, 1000px) scale(1); } }
+    transform: rotate(414deg) translate3d(522px, 188px, 1000px) scale(1); } }
 
 .tri:nth-child(7) {
-  border-top: 60px solid #ff7300;
-  border-top: 60px solid white;
-  border-right: 30px solid transparent;
-  border-left: 30px solid transparent;
-  margin-left: -15px;
-  margin-top: -15px;
-  transform: rotate(50deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 72px solid #ff3c00;
+  border-top: 72px solid white;
+  border-right: 36px solid transparent;
+  border-left: 36px solid transparent;
+  margin-left: -18px;
+  margin-top: -18px;
+  transform: rotate(297deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim7 10s infinite linear;
   animation-delay: 1.4s;
   opacity: 1; }
@@ -134,16 +134,16 @@ body {
 @keyframes anim7 {
   100% {
     opacity: 1;
-    transform: rotate(75deg) translate3d(438px, 148px, 1000px) scale(1); } }
+    transform: rotate(445.5deg) translate3d(301px, 719px, 1000px) scale(1); } }
 
 .tri:nth-child(8) {
-  border-top: 78px solid #ff9500;
-  border-top: 78px solid white;
-  border-right: 39px solid transparent;
-  border-left: 39px solid transparent;
-  margin-left: -19.5px;
-  margin-top: -19.5px;
-  transform: rotate(328deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 60px solid #ff8800;
+  border-top: 60px solid white;
+  border-right: 30px solid transparent;
+  border-left: 30px solid transparent;
+  margin-left: -15px;
+  margin-top: -15px;
+  transform: rotate(320deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim8 10s infinite linear;
   animation-delay: 1.6s;
   opacity: 1; }
@@ -151,16 +151,16 @@ body {
 @keyframes anim8 {
   100% {
     opacity: 1;
-    transform: rotate(492deg) translate3d(628px, 216px, 1000px) scale(1); } }
+    transform: rotate(480deg) translate3d(180px, 858px, 1000px) scale(1); } }
 
 .tri:nth-child(9) {
-  border-top: 40px solid #ae00ff;
-  border-top: 40px solid white;
-  border-right: 20px solid transparent;
-  border-left: 20px solid transparent;
-  margin-left: -10px;
-  margin-top: -10px;
-  transform: rotate(279deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 82px solid #66ff00;
+  border-top: 82px solid white;
+  border-right: 41px solid transparent;
+  border-left: 41px solid transparent;
+  margin-left: -20.5px;
+  margin-top: -20.5px;
+  transform: rotate(253deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim9 10s infinite linear;
   animation-delay: 1.8s;
   opacity: 1; }
@@ -168,16 +168,16 @@ body {
 @keyframes anim9 {
   100% {
     opacity: 1;
-    transform: rotate(418.5deg) translate3d(25px, 563px, 1000px) scale(1); } }
+    transform: rotate(379.5deg) translate3d(209px, 696px, 1000px) scale(1); } }
 
 .tri:nth-child(10) {
-  border-top: 54px solid #ff00aa;
-  border-top: 54px solid white;
-  border-right: 27px solid transparent;
-  border-left: 27px solid transparent;
-  margin-left: -13.5px;
-  margin-top: -13.5px;
-  transform: rotate(141deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 82px solid #00ff9d;
+  border-top: 82px solid white;
+  border-right: 41px solid transparent;
+  border-left: 41px solid transparent;
+  margin-left: -20.5px;
+  margin-top: -20.5px;
+  transform: rotate(27deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim10 10s infinite linear;
   animation-delay: 2s;
   opacity: 1; }
@@ -185,16 +185,16 @@ body {
 @keyframes anim10 {
   100% {
     opacity: 1;
-    transform: rotate(211.5deg) translate3d(441px, 544px, 1000px) scale(1); } }
+    transform: rotate(40.5deg) translate3d(874px, 77px, 1000px) scale(1); } }
 
 .tri:nth-child(11) {
-  border-top: 84px solid #00ff91;
-  border-top: 84px solid white;
-  border-right: 42px solid transparent;
-  border-left: 42px solid transparent;
-  margin-left: -21px;
-  margin-top: -21px;
-  transform: rotate(85deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 54px solid #59ff00;
+  border-top: 54px solid white;
+  border-right: 27px solid transparent;
+  border-left: 27px solid transparent;
+  margin-left: -13.5px;
+  margin-top: -13.5px;
+  transform: rotate(11deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim11 10s infinite linear;
   animation-delay: 2.2s;
   opacity: 1; }
@@ -202,16 +202,16 @@ body {
 @keyframes anim11 {
   100% {
     opacity: 1;
-    transform: rotate(127.5deg) translate3d(478px, 933px, 1000px) scale(1); } }
+    transform: rotate(16.5deg) translate3d(676px, 23px, 1000px) scale(1); } }
 
 .tri:nth-child(12) {
-  border-top: 92px solid #22ff00;
-  border-top: 92px solid white;
-  border-right: 46px solid transparent;
-  border-left: 46px solid transparent;
-  margin-left: -23px;
-  margin-top: -23px;
-  transform: rotate(99deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 12px solid #ff006a;
+  border-top: 12px solid white;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  margin-left: -3px;
+  margin-top: -3px;
+  transform: rotate(53deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim12 10s infinite linear;
   animation-delay: 2.4s;
   opacity: 1; }
@@ -219,16 +219,16 @@ body {
 @keyframes anim12 {
   100% {
     opacity: 1;
-    transform: rotate(148.5deg) translate3d(107px, 889px, 1000px) scale(1); } }
+    transform: rotate(79.5deg) translate3d(539px, 479px, 1000px) scale(1); } }
 
 .tri:nth-child(13) {
-  border-top: 42px solid #ffd000;
-  border-top: 42px solid white;
-  border-right: 21px solid transparent;
-  border-left: 21px solid transparent;
-  margin-left: -10.5px;
-  margin-top: -10.5px;
-  transform: rotate(341deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 96px solid #ff0048;
+  border-top: 96px solid white;
+  border-right: 48px solid transparent;
+  border-left: 48px solid transparent;
+  margin-left: -24px;
+  margin-top: -24px;
+  transform: rotate(351deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim13 10s infinite linear;
   animation-delay: 2.6s;
   opacity: 1; }
@@ -236,16 +236,16 @@ body {
 @keyframes anim13 {
   100% {
     opacity: 1;
-    transform: rotate(511.5deg) translate3d(715px, 128px, 1000px) scale(1); } }
+    transform: rotate(526.5deg) translate3d(335px, 344px, 1000px) scale(1); } }
 
 .tri:nth-child(14) {
-  border-top: 94px solid #00e1ff;
-  border-top: 94px solid white;
-  border-right: 47px solid transparent;
-  border-left: 47px solid transparent;
-  margin-left: -23.5px;
-  margin-top: -23.5px;
-  transform: rotate(132deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 100px solid #008cff;
+  border-top: 100px solid white;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  margin-left: -25px;
+  margin-top: -25px;
+  transform: rotate(174deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim14 10s infinite linear;
   animation-delay: 2.8s;
   opacity: 1; }
@@ -253,16 +253,16 @@ body {
 @keyframes anim14 {
   100% {
     opacity: 1;
-    transform: rotate(198deg) translate3d(799px, 523px, 1000px) scale(1); } }
+    transform: rotate(261deg) translate3d(338px, 524px, 1000px) scale(1); } }
 
 .tri:nth-child(15) {
-  border-top: 100px solid #0099ff;
+  border-top: 100px solid #0dff00;
   border-top: 100px solid white;
   border-right: 50px solid transparent;
   border-left: 50px solid transparent;
   margin-left: -25px;
   margin-top: -25px;
-  transform: rotate(177deg) translate3d(0, 0, -1500px) scale(0);
+  transform: rotate(3deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim15 10s infinite linear;
   animation-delay: 3s;
   opacity: 1; }
@@ -270,16 +270,16 @@ body {
 @keyframes anim15 {
   100% {
     opacity: 1;
-    transform: rotate(265.5deg) translate3d(354px, 592px, 1000px) scale(1); } }
+    transform: rotate(4.5deg) translate3d(504px, 235px, 1000px) scale(1); } }
 
 .tri:nth-child(16) {
-  border-top: 92px solid #00ff2b;
-  border-top: 92px solid white;
-  border-right: 46px solid transparent;
-  border-left: 46px solid transparent;
-  margin-left: -23px;
-  margin-top: -23px;
-  transform: rotate(121deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 42px solid #ff00d9;
+  border-top: 42px solid white;
+  border-right: 21px solid transparent;
+  border-left: 21px solid transparent;
+  margin-left: -10.5px;
+  margin-top: -10.5px;
+  transform: rotate(314deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim16 10s infinite linear;
   animation-delay: 3.2s;
   opacity: 1; }
@@ -287,16 +287,16 @@ body {
 @keyframes anim16 {
   100% {
     opacity: 1;
-    transform: rotate(181.5deg) translate3d(487px, 24px, 1000px) scale(1); } }
+    transform: rotate(471deg) translate3d(444px, 47px, 1000px) scale(1); } }
 
 .tri:nth-child(17) {
-  border-top: 76px solid #ff0080;
-  border-top: 76px solid white;
-  border-right: 38px solid transparent;
-  border-left: 38px solid transparent;
-  margin-left: -19px;
-  margin-top: -19px;
-  transform: rotate(322deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 34px solid #7700ff;
+  border-top: 34px solid white;
+  border-right: 17px solid transparent;
+  border-left: 17px solid transparent;
+  margin-left: -8.5px;
+  margin-top: -8.5px;
+  transform: rotate(33deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim17 10s infinite linear;
   animation-delay: 3.4s;
   opacity: 1; }
@@ -304,16 +304,16 @@ body {
 @keyframes anim17 {
   100% {
     opacity: 1;
-    transform: rotate(483deg) translate3d(151px, 748px, 1000px) scale(1); } }
+    transform: rotate(49.5deg) translate3d(399px, 388px, 1000px) scale(1); } }
 
 .tri:nth-child(18) {
-  border-top: 50px solid #0400ff;
-  border-top: 50px solid white;
-  border-right: 25px solid transparent;
-  border-left: 25px solid transparent;
-  margin-left: -12.5px;
-  margin-top: -12.5px;
-  transform: rotate(142deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 100px solid #ff6f00;
+  border-top: 100px solid white;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  margin-left: -25px;
+  margin-top: -25px;
+  transform: rotate(120deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim18 10s infinite linear;
   animation-delay: 3.6s;
   opacity: 1; }
@@ -321,16 +321,16 @@ body {
 @keyframes anim18 {
   100% {
     opacity: 1;
-    transform: rotate(213deg) translate3d(899px, 683px, 1000px) scale(1); } }
+    transform: rotate(180deg) translate3d(664px, 623px, 1000px) scale(1); } }
 
 .tri:nth-child(19) {
-  border-top: 80px solid #9100ff;
-  border-top: 80px solid white;
-  border-right: 40px solid transparent;
-  border-left: 40px solid transparent;
-  margin-left: -20px;
-  margin-top: -20px;
-  transform: rotate(12deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 52px solid #9dff00;
+  border-top: 52px solid white;
+  border-right: 26px solid transparent;
+  border-left: 26px solid transparent;
+  margin-left: -13px;
+  margin-top: -13px;
+  transform: rotate(177deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim19 10s infinite linear;
   animation-delay: 3.8s;
   opacity: 1; }
@@ -338,16 +338,16 @@ body {
 @keyframes anim19 {
   100% {
     opacity: 1;
-    transform: rotate(18deg) translate3d(532px, 869px, 1000px) scale(1); } }
+    transform: rotate(265.5deg) translate3d(391px, 740px, 1000px) scale(1); } }
 
 .tri:nth-child(20) {
-  border-top: 14px solid #ff2f00;
-  border-top: 14px solid white;
-  border-right: 7px solid transparent;
-  border-left: 7px solid transparent;
-  margin-left: -3.5px;
-  margin-top: -3.5px;
-  transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 94px solid #003cff;
+  border-top: 94px solid white;
+  border-right: 47px solid transparent;
+  border-left: 47px solid transparent;
+  margin-left: -23.5px;
+  margin-top: -23.5px;
+  transform: rotate(231deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim20 10s infinite linear;
   animation-delay: 4s;
   opacity: 1; }
@@ -355,16 +355,16 @@ body {
 @keyframes anim20 {
   100% {
     opacity: 1;
-    transform: rotate(424.5deg) translate3d(59px, 358px, 1000px) scale(1); } }
+    transform: rotate(346.5deg) translate3d(593px, 840px, 1000px) scale(1); } }
 
 .tri:nth-child(21) {
-  border-top: 94px solid #00ff95;
-  border-top: 94px solid white;
-  border-right: 47px solid transparent;
-  border-left: 47px solid transparent;
-  margin-left: -23.5px;
-  margin-top: -23.5px;
-  transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 68px solid #00ff22;
+  border-top: 68px solid white;
+  border-right: 34px solid transparent;
+  border-left: 34px solid transparent;
+  margin-left: -17px;
+  margin-top: -17px;
+  transform: rotate(256deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim21 10s infinite linear;
   animation-delay: 4.2s;
   opacity: 1; }
@@ -372,16 +372,16 @@ body {
 @keyframes anim21 {
   100% {
     opacity: 1;
-    transform: rotate(60deg) translate3d(910px, 729px, 1000px) scale(1); } }
+    transform: rotate(384deg) translate3d(490px, 930px, 1000px) scale(1); } }
 
 .tri:nth-child(22) {
-  border-top: 74px solid #6600ff;
-  border-top: 74px solid white;
-  border-right: 37px solid transparent;
-  border-left: 37px solid transparent;
-  margin-left: -18.5px;
-  margin-top: -18.5px;
-  transform: rotate(100deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 64px solid #00c8ff;
+  border-top: 64px solid white;
+  border-right: 32px solid transparent;
+  border-left: 32px solid transparent;
+  margin-left: -16px;
+  margin-top: -16px;
+  transform: rotate(225deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim22 10s infinite linear;
   animation-delay: 4.4s;
   opacity: 1; }
@@ -389,16 +389,16 @@ body {
 @keyframes anim22 {
   100% {
     opacity: 1;
-    transform: rotate(150deg) translate3d(79px, 983px, 1000px) scale(1); } }
+    transform: rotate(337.5deg) translate3d(276px, 3px, 1000px) scale(1); } }
 
 .tri:nth-child(23) {
-  border-top: 46px solid #00ffc4;
-  border-top: 46px solid white;
-  border-right: 23px solid transparent;
-  border-left: 23px solid transparent;
-  margin-left: -11.5px;
-  margin-top: -11.5px;
-  transform: rotate(83deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 78px solid #2bff00;
+  border-top: 78px solid white;
+  border-right: 39px solid transparent;
+  border-left: 39px solid transparent;
+  margin-left: -19.5px;
+  margin-top: -19.5px;
+  transform: rotate(125deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim23 10s infinite linear;
   animation-delay: 4.6s;
   opacity: 1; }
@@ -406,16 +406,16 @@ body {
 @keyframes anim23 {
   100% {
     opacity: 1;
-    transform: rotate(124.5deg) translate3d(712px, 564px, 1000px) scale(1); } }
+    transform: rotate(187.5deg) translate3d(513px, 863px, 1000px) scale(1); } }
 
 .tri:nth-child(24) {
-  border-top: 16px solid #5100ff;
-  border-top: 16px solid white;
-  border-right: 8px solid transparent;
-  border-left: 8px solid transparent;
-  margin-left: -4px;
-  margin-top: -4px;
-  transform: rotate(23deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 42px solid #00ffe1;
+  border-top: 42px solid white;
+  border-right: 21px solid transparent;
+  border-left: 21px solid transparent;
+  margin-left: -10.5px;
+  margin-top: -10.5px;
+  transform: rotate(323deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim24 10s infinite linear;
   animation-delay: 4.8s;
   opacity: 1; }
@@ -423,16 +423,16 @@ body {
 @keyframes anim24 {
   100% {
     opacity: 1;
-    transform: rotate(34.5deg) translate3d(192px, 551px, 1000px) scale(1); } }
+    transform: rotate(484.5deg) translate3d(703px, 86px, 1000px) scale(1); } }
 
 .tri:nth-child(25) {
-  border-top: 48px solid #ff5e00;
-  border-top: 48px solid white;
-  border-right: 24px solid transparent;
-  border-left: 24px solid transparent;
-  margin-left: -12px;
-  margin-top: -12px;
-  transform: rotate(218deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 54px solid #00ff84;
+  border-top: 54px solid white;
+  border-right: 27px solid transparent;
+  border-left: 27px solid transparent;
+  margin-left: -13.5px;
+  margin-top: -13.5px;
+  transform: rotate(112deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim25 10s infinite linear;
   animation-delay: 5s;
   opacity: 1; }
@@ -440,16 +440,16 @@ body {
 @keyframes anim25 {
   100% {
     opacity: 1;
-    transform: rotate(327deg) translate3d(666px, 910px, 1000px) scale(1); } }
+    transform: rotate(168deg) translate3d(26px, 344px, 1000px) scale(1); } }
 
 .tri:nth-child(26) {
-  border-top: 36px solid #00ffaa;
-  border-top: 36px solid white;
-  border-right: 18px solid transparent;
-  border-left: 18px solid transparent;
-  margin-left: -9px;
-  margin-top: -9px;
-  transform: rotate(31deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 20px solid #1e00ff;
+  border-top: 20px solid white;
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+  margin-left: -5px;
+  margin-top: -5px;
+  transform: rotate(60deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim26 10s infinite linear;
   animation-delay: 5.2s;
   opacity: 1; }
@@ -457,16 +457,16 @@ body {
 @keyframes anim26 {
   100% {
     opacity: 1;
-    transform: rotate(46.5deg) translate3d(367px, 916px, 1000px) scale(1); } }
+    transform: rotate(90deg) translate3d(150px, 241px, 1000px) scale(1); } }
 
 .tri:nth-child(27) {
-  border-top: 82px solid #ff001e;
-  border-top: 82px solid white;
-  border-right: 41px solid transparent;
-  border-left: 41px solid transparent;
-  margin-left: -20.5px;
-  margin-top: -20.5px;
-  transform: rotate(114deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 24px solid #0900ff;
+  border-top: 24px solid white;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  margin-left: -6px;
+  margin-top: -6px;
+  transform: rotate(58deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim27 10s infinite linear;
   animation-delay: 5.4s;
   opacity: 1; }
@@ -474,16 +474,16 @@ body {
 @keyframes anim27 {
   100% {
     opacity: 1;
-    transform: rotate(171deg) translate3d(531px, 481px, 1000px) scale(1); } }
+    transform: rotate(87deg) translate3d(303px, 894px, 1000px) scale(1); } }
 
 .tri:nth-child(28) {
-  border-top: 92px solid #000dff;
-  border-top: 92px solid white;
-  border-right: 46px solid transparent;
-  border-left: 46px solid transparent;
-  margin-left: -23px;
-  margin-top: -23px;
-  transform: rotate(217deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 24px solid #00ffe1;
+  border-top: 24px solid white;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  margin-left: -6px;
+  margin-top: -6px;
+  transform: rotate(72deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim28 10s infinite linear;
   animation-delay: 5.6s;
   opacity: 1; }
@@ -491,16 +491,16 @@ body {
 @keyframes anim28 {
   100% {
     opacity: 1;
-    transform: rotate(325.5deg) translate3d(501px, 32px, 1000px) scale(1); } }
+    transform: rotate(108deg) translate3d(886px, 333px, 1000px) scale(1); } }
 
 .tri:nth-child(29) {
-  border-top: 32px solid #00ff2b;
-  border-top: 32px solid white;
-  border-right: 16px solid transparent;
-  border-left: 16px solid transparent;
-  margin-left: -8px;
-  margin-top: -8px;
-  transform: rotate(60deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 14px solid #ff007b;
+  border-top: 14px solid white;
+  border-right: 7px solid transparent;
+  border-left: 7px solid transparent;
+  margin-left: -3.5px;
+  margin-top: -3.5px;
+  transform: rotate(119deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim29 10s infinite linear;
   animation-delay: 5.8s;
   opacity: 1; }
@@ -508,16 +508,16 @@ body {
 @keyframes anim29 {
   100% {
     opacity: 1;
-    transform: rotate(90deg) translate3d(102px, 441px, 1000px) scale(1); } }
+    transform: rotate(178.5deg) translate3d(459px, 524px, 1000px) scale(1); } }
 
 .tri:nth-child(30) {
-  border-top: 4px solid #009dff;
-  border-top: 4px solid white;
-  border-right: 2px solid transparent;
-  border-left: 2px solid transparent;
-  margin-left: -1px;
-  margin-top: -1px;
-  transform: rotate(283deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 92px solid #ff1e00;
+  border-top: 92px solid white;
+  border-right: 46px solid transparent;
+  border-left: 46px solid transparent;
+  margin-left: -23px;
+  margin-top: -23px;
+  transform: rotate(173deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim30 10s infinite linear;
   animation-delay: 6s;
   opacity: 1; }
@@ -525,16 +525,16 @@ body {
 @keyframes anim30 {
   100% {
     opacity: 1;
-    transform: rotate(424.5deg) translate3d(93px, 842px, 1000px) scale(1); } }
+    transform: rotate(259.5deg) translate3d(80px, 432px, 1000px) scale(1); } }
 
 .tri:nth-child(31) {
-  border-top: 44px solid #e1ff00;
-  border-top: 44px solid white;
-  border-right: 22px solid transparent;
-  border-left: 22px solid transparent;
-  margin-left: -11px;
-  margin-top: -11px;
-  transform: rotate(3deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 26px solid #ff4800;
+  border-top: 26px solid white;
+  border-right: 13px solid transparent;
+  border-left: 13px solid transparent;
+  margin-left: -6.5px;
+  margin-top: -6.5px;
+  transform: rotate(265deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim31 10s infinite linear;
   animation-delay: 6.2s;
   opacity: 1; }
@@ -542,16 +542,16 @@ body {
 @keyframes anim31 {
   100% {
     opacity: 1;
-    transform: rotate(4.5deg) translate3d(281px, 840px, 1000px) scale(1); } }
+    transform: rotate(397.5deg) translate3d(965px, 688px, 1000px) scale(1); } }
 
 .tri:nth-child(32) {
-  border-top: 2px solid #00ff11;
-  border-top: 2px solid white;
-  border-right: 1px solid transparent;
-  border-left: 1px solid transparent;
-  margin-left: -0.5px;
-  margin-top: -0.5px;
-  transform: rotate(302deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 74px solid #ff00ea;
+  border-top: 74px solid white;
+  border-right: 37px solid transparent;
+  border-left: 37px solid transparent;
+  margin-left: -18.5px;
+  margin-top: -18.5px;
+  transform: rotate(230deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim32 10s infinite linear;
   animation-delay: 6.4s;
   opacity: 1; }
@@ -559,16 +559,16 @@ body {
 @keyframes anim32 {
   100% {
     opacity: 1;
-    transform: rotate(453deg) translate3d(102px, 535px, 1000px) scale(1); } }
+    transform: rotate(345deg) translate3d(329px, 247px, 1000px) scale(1); } }
 
 .tri:nth-child(33) {
-  border-top: 42px solid #ff0022;
-  border-top: 42px solid white;
-  border-right: 21px solid transparent;
-  border-left: 21px solid transparent;
-  margin-left: -10.5px;
-  margin-top: -10.5px;
-  transform: rotate(327deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 92px solid #00ffd9;
+  border-top: 92px solid white;
+  border-right: 46px solid transparent;
+  border-left: 46px solid transparent;
+  margin-left: -23px;
+  margin-top: -23px;
+  transform: rotate(112deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim33 10s infinite linear;
   animation-delay: 6.6s;
   opacity: 1; }
@@ -576,16 +576,16 @@ body {
 @keyframes anim33 {
   100% {
     opacity: 1;
-    transform: rotate(490.5deg) translate3d(498px, 487px, 1000px) scale(1); } }
+    transform: rotate(168deg) translate3d(830px, 794px, 1000px) scale(1); } }
 
 .tri:nth-child(34) {
-  border-top: 92px solid #ff00b7;
-  border-top: 92px solid white;
-  border-right: 46px solid transparent;
-  border-left: 46px solid transparent;
-  margin-left: -23px;
-  margin-top: -23px;
-  transform: rotate(203deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 32px solid #2f00ff;
+  border-top: 32px solid white;
+  border-right: 16px solid transparent;
+  border-left: 16px solid transparent;
+  margin-left: -8px;
+  margin-top: -8px;
+  transform: rotate(280deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim34 10s infinite linear;
   animation-delay: 6.8s;
   opacity: 1; }
@@ -593,16 +593,16 @@ body {
 @keyframes anim34 {
   100% {
     opacity: 1;
-    transform: rotate(304.5deg) translate3d(976px, 355px, 1000px) scale(1); } }
+    transform: rotate(420deg) translate3d(709px, 33px, 1000px) scale(1); } }
 
 .tri:nth-child(35) {
-  border-top: 82px solid #ff00cc;
-  border-top: 82px solid white;
-  border-right: 41px solid transparent;
-  border-left: 41px solid transparent;
-  margin-left: -20.5px;
-  margin-top: -20.5px;
-  transform: rotate(343deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 64px solid #0073ff;
+  border-top: 64px solid white;
+  border-right: 32px solid transparent;
+  border-left: 32px solid transparent;
+  margin-left: -16px;
+  margin-top: -16px;
+  transform: rotate(196deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim35 10s infinite linear;
   animation-delay: 7s;
   opacity: 1; }
@@ -610,16 +610,16 @@ body {
 @keyframes anim35 {
   100% {
     opacity: 1;
-    transform: rotate(514.5deg) translate3d(81px, 144px, 1000px) scale(1); } }
+    transform: rotate(294deg) translate3d(797px, 231px, 1000px) scale(1); } }
 
 .tri:nth-child(36) {
-  border-top: 84px solid #ff00ee;
-  border-top: 84px solid white;
-  border-right: 42px solid transparent;
-  border-left: 42px solid transparent;
-  margin-left: -21px;
-  margin-top: -21px;
-  transform: rotate(259deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 92px solid #ff6f00;
+  border-top: 92px solid white;
+  border-right: 46px solid transparent;
+  border-left: 46px solid transparent;
+  margin-left: -23px;
+  margin-top: -23px;
+  transform: rotate(55deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim36 10s infinite linear;
   animation-delay: 7.2s;
   opacity: 1; }
@@ -627,16 +627,16 @@ body {
 @keyframes anim36 {
   100% {
     opacity: 1;
-    transform: rotate(388.5deg) translate3d(315px, 250px, 1000px) scale(1); } }
+    transform: rotate(82.5deg) translate3d(722px, 241px, 1000px) scale(1); } }
 
 .tri:nth-child(37) {
-  border-top: 88px solid #ff0088;
-  border-top: 88px solid white;
-  border-right: 44px solid transparent;
-  border-left: 44px solid transparent;
-  margin-left: -22px;
-  margin-top: -22px;
-  transform: rotate(349deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 68px solid #00c4ff;
+  border-top: 68px solid white;
+  border-right: 34px solid transparent;
+  border-left: 34px solid transparent;
+  margin-left: -17px;
+  margin-top: -17px;
+  transform: rotate(89deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim37 10s infinite linear;
   animation-delay: 7.4s;
   opacity: 1; }
@@ -644,16 +644,16 @@ body {
 @keyframes anim37 {
   100% {
     opacity: 1;
-    transform: rotate(523.5deg) translate3d(39px, 883px, 1000px) scale(1); } }
+    transform: rotate(133.5deg) translate3d(756px, 86px, 1000px) scale(1); } }
 
 .tri:nth-child(38) {
-  border-top: 74px solid #f7ff00;
-  border-top: 74px solid white;
-  border-right: 37px solid transparent;
-  border-left: 37px solid transparent;
-  margin-left: -18.5px;
-  margin-top: -18.5px;
-  transform: rotate(92deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 66px solid #0062ff;
+  border-top: 66px solid white;
+  border-right: 33px solid transparent;
+  border-left: 33px solid transparent;
+  margin-left: -16.5px;
+  margin-top: -16.5px;
+  transform: rotate(354deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim38 10s infinite linear;
   animation-delay: 7.6s;
   opacity: 1; }
@@ -661,16 +661,16 @@ body {
 @keyframes anim38 {
   100% {
     opacity: 1;
-    transform: rotate(138deg) translate3d(318px, 102px, 1000px) scale(1); } }
+    transform: rotate(531deg) translate3d(870px, 254px, 1000px) scale(1); } }
 
 .tri:nth-child(39) {
-  border-top: 38px solid #00ff04;
-  border-top: 38px solid white;
-  border-right: 19px solid transparent;
-  border-left: 19px solid transparent;
-  margin-left: -9.5px;
-  margin-top: -9.5px;
-  transform: rotate(170deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 40px solid #1aff00;
+  border-top: 40px solid white;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  margin-left: -10px;
+  margin-top: -10px;
+  transform: rotate(224deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim39 10s infinite linear;
   animation-delay: 7.8s;
   opacity: 1; }
@@ -678,16 +678,16 @@ body {
 @keyframes anim39 {
   100% {
     opacity: 1;
-    transform: rotate(255deg) translate3d(864px, 558px, 1000px) scale(1); } }
+    transform: rotate(336deg) translate3d(713px, 63px, 1000px) scale(1); } }
 
 .tri:nth-child(40) {
-  border-top: 84px solid #ff8800;
-  border-top: 84px solid white;
-  border-right: 42px solid transparent;
-  border-left: 42px solid transparent;
-  margin-left: -21px;
-  margin-top: -21px;
-  transform: rotate(183deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 28px solid #ff4800;
+  border-top: 28px solid white;
+  border-right: 14px solid transparent;
+  border-left: 14px solid transparent;
+  margin-left: -7px;
+  margin-top: -7px;
+  transform: rotate(40deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim40 10s infinite linear;
   animation-delay: 8s;
   opacity: 1; }
@@ -695,16 +695,16 @@ body {
 @keyframes anim40 {
   100% {
     opacity: 1;
-    transform: rotate(274.5deg) translate3d(369px, 455px, 1000px) scale(1); } }
+    transform: rotate(60deg) translate3d(95px, 91px, 1000px) scale(1); } }
 
 .tri:nth-child(41) {
-  border-top: 38px solid #ff1a00;
-  border-top: 38px solid white;
-  border-right: 19px solid transparent;
-  border-left: 19px solid transparent;
-  margin-left: -9.5px;
-  margin-top: -9.5px;
-  transform: rotate(336deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 76px solid #00ff09;
+  border-top: 76px solid white;
+  border-right: 38px solid transparent;
+  border-left: 38px solid transparent;
+  margin-left: -19px;
+  margin-top: -19px;
+  transform: rotate(242deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim41 10s infinite linear;
   animation-delay: 8.2s;
   opacity: 1; }
@@ -712,16 +712,16 @@ body {
 @keyframes anim41 {
   100% {
     opacity: 1;
-    transform: rotate(504deg) translate3d(306px, 923px, 1000px) scale(1); } }
+    transform: rotate(363deg) translate3d(574px, 925px, 1000px) scale(1); } }
 
 .tri:nth-child(42) {
-  border-top: 50px solid #1500ff;
-  border-top: 50px solid white;
-  border-right: 25px solid transparent;
-  border-left: 25px solid transparent;
-  margin-left: -12.5px;
-  margin-top: -12.5px;
-  transform: rotate(34deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 24px solid #ff6f00;
+  border-top: 24px solid white;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  margin-left: -6px;
+  margin-top: -6px;
+  transform: rotate(334deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim42 10s infinite linear;
   animation-delay: 8.4s;
   opacity: 1; }
@@ -729,16 +729,16 @@ body {
 @keyframes anim42 {
   100% {
     opacity: 1;
-    transform: rotate(51deg) translate3d(474px, 104px, 1000px) scale(1); } }
+    transform: rotate(501deg) translate3d(907px, 375px, 1000px) scale(1); } }
 
 .tri:nth-child(43) {
-  border-top: 56px solid #00ffb7;
-  border-top: 56px solid white;
-  border-right: 28px solid transparent;
-  border-left: 28px solid transparent;
-  margin-left: -14px;
-  margin-top: -14px;
-  transform: rotate(216deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 48px solid #00ff5e;
+  border-top: 48px solid white;
+  border-right: 24px solid transparent;
+  border-left: 24px solid transparent;
+  margin-left: -12px;
+  margin-top: -12px;
+  transform: rotate(331deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim43 10s infinite linear;
   animation-delay: 8.6s;
   opacity: 1; }
@@ -746,16 +746,16 @@ body {
 @keyframes anim43 {
   100% {
     opacity: 1;
-    transform: rotate(324deg) translate3d(622px, 212px, 1000px) scale(1); } }
+    transform: rotate(496.5deg) translate3d(313px, 342px, 1000px) scale(1); } }
 
 .tri:nth-child(44) {
-  border-top: 88px solid #00c8ff;
-  border-top: 88px solid white;
-  border-right: 44px solid transparent;
-  border-left: 44px solid transparent;
-  margin-left: -22px;
-  margin-top: -22px;
-  transform: rotate(88deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 54px solid #0059ff;
+  border-top: 54px solid white;
+  border-right: 27px solid transparent;
+  border-left: 27px solid transparent;
+  margin-left: -13.5px;
+  margin-top: -13.5px;
+  transform: rotate(165deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim44 10s infinite linear;
   animation-delay: 8.8s;
   opacity: 1; }
@@ -763,16 +763,16 @@ body {
 @keyframes anim44 {
   100% {
     opacity: 1;
-    transform: rotate(132deg) translate3d(975px, 192px, 1000px) scale(1); } }
+    transform: rotate(247.5deg) translate3d(527px, 78px, 1000px) scale(1); } }
 
 .tri:nth-child(45) {
-  border-top: 34px solid #2b00ff;
-  border-top: 34px solid white;
-  border-right: 17px solid transparent;
-  border-left: 17px solid transparent;
-  margin-left: -8.5px;
-  margin-top: -8.5px;
-  transform: rotate(243deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 42px solid #ff00bf;
+  border-top: 42px solid white;
+  border-right: 21px solid transparent;
+  border-left: 21px solid transparent;
+  margin-left: -10.5px;
+  margin-top: -10.5px;
+  transform: rotate(316deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim45 10s infinite linear;
   animation-delay: 9s;
   opacity: 1; }
@@ -780,16 +780,16 @@ body {
 @keyframes anim45 {
   100% {
     opacity: 1;
-    transform: rotate(364.5deg) translate3d(272px, 590px, 1000px) scale(1); } }
+    transform: rotate(474deg) translate3d(152px, 472px, 1000px) scale(1); } }
 
 .tri:nth-child(46) {
-  border-top: 46px solid #0400ff;
-  border-top: 46px solid white;
-  border-right: 23px solid transparent;
-  border-left: 23px solid transparent;
-  margin-left: -11.5px;
-  margin-top: -11.5px;
-  transform: rotate(265deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 60px solid #00ffae;
+  border-top: 60px solid white;
+  border-right: 30px solid transparent;
+  border-left: 30px solid transparent;
+  margin-left: -15px;
+  margin-top: -15px;
+  transform: rotate(84deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim46 10s infinite linear;
   animation-delay: 9.2s;
   opacity: 1; }
@@ -797,16 +797,16 @@ body {
 @keyframes anim46 {
   100% {
     opacity: 1;
-    transform: rotate(397.5deg) translate3d(6px, 363px, 1000px) scale(1); } }
+    transform: rotate(126deg) translate3d(459px, 977px, 1000px) scale(1); } }
 
 .tri:nth-child(47) {
-  border-top: 66px solid #ff000d;
-  border-top: 66px solid white;
-  border-right: 33px solid transparent;
-  border-left: 33px solid transparent;
-  margin-left: -16.5px;
-  margin-top: -16.5px;
-  transform: rotate(324deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 34px solid #fff200;
+  border-top: 34px solid white;
+  border-right: 17px solid transparent;
+  border-left: 17px solid transparent;
+  margin-left: -8.5px;
+  margin-top: -8.5px;
+  transform: rotate(250deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim47 10s infinite linear;
   animation-delay: 9.4s;
   opacity: 1; }
@@ -814,16 +814,16 @@ body {
 @keyframes anim47 {
   100% {
     opacity: 1;
-    transform: rotate(486deg) translate3d(289px, 5px, 1000px) scale(1); } }
+    transform: rotate(375deg) translate3d(826px, 74px, 1000px) scale(1); } }
 
 .tri:nth-child(48) {
-  border-top: 34px solid #ff6200;
-  border-top: 34px solid white;
-  border-right: 17px solid transparent;
-  border-left: 17px solid transparent;
-  margin-left: -8.5px;
-  margin-top: -8.5px;
-  transform: rotate(228deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 46px solid #91ff00;
+  border-top: 46px solid white;
+  border-right: 23px solid transparent;
+  border-left: 23px solid transparent;
+  margin-left: -11.5px;
+  margin-top: -11.5px;
+  transform: rotate(146deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim48 10s infinite linear;
   animation-delay: 9.6s;
   opacity: 1; }
@@ -831,16 +831,16 @@ body {
 @keyframes anim48 {
   100% {
     opacity: 1;
-    transform: rotate(342deg) translate3d(598px, 149px, 1000px) scale(1); } }
+    transform: rotate(219deg) translate3d(910px, 816px, 1000px) scale(1); } }
 
 .tri:nth-child(49) {
-  border-top: 88px solid #ff2600;
-  border-top: 88px solid white;
-  border-right: 44px solid transparent;
-  border-left: 44px solid transparent;
-  margin-left: -22px;
-  margin-top: -22px;
-  transform: rotate(74deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 68px solid #00ff95;
+  border-top: 68px solid white;
+  border-right: 34px solid transparent;
+  border-left: 34px solid transparent;
+  margin-left: -17px;
+  margin-top: -17px;
+  transform: rotate(27deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim49 10s infinite linear;
   animation-delay: 9.8s;
   opacity: 1; }
@@ -848,16 +848,16 @@ body {
 @keyframes anim49 {
   100% {
     opacity: 1;
-    transform: rotate(111deg) translate3d(95px, 304px, 1000px) scale(1); } }
+    transform: rotate(40.5deg) translate3d(140px, 622px, 1000px) scale(1); } }
 
 .tri:nth-child(50) {
-  border-top: 100px solid #ff0073;
-  border-top: 100px solid white;
-  border-right: 50px solid transparent;
-  border-left: 50px solid transparent;
-  margin-left: -25px;
-  margin-top: -25px;
-  transform: rotate(7deg) translate3d(0, 0, -1500px) scale(0);
+  border-top: 8px solid #ffbf00;
+  border-top: 8px solid white;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  margin-left: -2px;
+  margin-top: -2px;
+  transform: rotate(86deg) translate3d(0, 0, -1500px) scale(0);
   animation: anim50 10s infinite linear;
   animation-delay: 10s;
   opacity: 1; }
@@ -865,7 +865,7 @@ body {
 @keyframes anim50 {
   100% {
     opacity: 1;
-    transform: rotate(10.5deg) translate3d(654px, 468px, 1000px) scale(1); } }
+    transform: rotate(129deg) translate3d(956px, 1px, 1000px) scale(1); } }
 
 .content-container {
   height: 100%;
@@ -1037,21 +1037,3 @@ body {
   100% {
     transform: translateY(0);
     opacity: 1; } }
-
-@media only screen and (max-width: 768px) {
-  @keyframes stretch {
-    0% {
-      width: 0;
-      opacity: 0;
-      padding: 0; }
-    100% {
-      width: 100%;
-      opacity: 1;
-      padding: 5px; } }
-  .play {
-    opacity: 0;
-    margin-left: 5px;
-    background-color: transparent;
-    border-left: 20px solid black;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent; } }
