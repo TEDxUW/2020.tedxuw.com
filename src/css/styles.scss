@@ -303,20 +303,11 @@ body {
 
 	.play {
 		opacity: 0;
-		margin-left: 50px;
+		margin-left: 5px;
 	
 		background-color: transparent;
 		border-left: 20px solid black;
 		border-top: 10px solid transparent;
 		border-bottom: 10px solid transparent;
-	}
-
-	.flex-row-center {
-		flex-direction: column;
-	}
-
-	.submit {
-		margin-left: 0;
-		margin-top: 5px;
 	}
 }
