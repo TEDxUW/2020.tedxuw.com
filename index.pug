@@ -5,6 +5,7 @@ html
     meta(http-equiv='ScreenOrientation' content='autoRotate:disabled')
     link(rel='stylesheet' href='src/css/styles.css')
     link(rel='stylesheet' href='src/css/font-files/web/index.css')
+    link(rel='shortcut icon' type='image/x-icon' href='src/assets/Logo.png')
     script(src="src/fitty.min.js")
   body
     .wrap
@@ -15,43 +16,18 @@ html
     .content-container.absolute-center.flex-col-center
       img.logo.fadeIn(src='src/assets/Logo.png' alt='logo')
       div.form-container
-        //- form#email-form.flex-row-center(action='src/form-to-email.php' method='post')
-        //-   input#email-input.email-input.stretch(name='EMAIL' type='email' placeholder='email' required='')
-        //-   button.submit.appear(type='submit' name='SUBMIT')
-        //-     div.play.play-animate
+
         // Mailchimp form (start)
         form#mc-embedded-subscribe-form.validate.flex-row-center(action='https://tedxuw.us16.list-manage.com/subscribe/post?u=77685316543b00e0131d233fc&id=d47041e666' method='post' name='mc-embedded-subscribe-form' target='_blank' novalidate='')
           input#mce-EMAIL.required.email.stretch(type='email' placeholder='email' name='EMAIL')
           button#mc-embedded-subscribe.button.appear(type='submit' value='' name='subscribe')
             div.play.play-animate
         // Mailchimp form (end)
+
         div.text-container
           p#text.text.slideInUp
             | Prepare to 
             span.red Press Play
-
-      //- // Begin Mailchimp Signup Form
-      //- #mc_embed_signup
-      //-   form#mc-embedded-subscribe-form.validate(action='https://tedxuw.us16.list-manage.com/subscribe/post?u=77685316543b00e0131d233fc&id=d47041e666' method='post' name='mc-embedded-subscribe-form' target='_blank' novalidate='')
-      //-     #mc_embed_signup_scroll.flex-row-center
-      //-       .mc-field-group.width-100.flex-row-center
-      //-         input#mce-EMAIL.required.email.stretch(type='email' placeholder='email' name='EMAIL')
-      //-       #mce-responses.clear
-      //-         #mce-error-response.response(style='display:none')
-      //-         #mce-success-response.response(style='display:none')
-      //-       // real people should not fill this in and expect good things - do not remove this or risk form bot signups
-      //-       div(style='position: absolute; left: -5000px;' aria-hidden='true')
-      //-         input(type='text' name='b_77685316543b00e0131d233fc_d47041e666' tabindex='-1' value='')
-      //-       .clear
-      //-         button#mc-embedded-subscribe.button.appear(type='submit' value='' name='subscribe')
-      //-           div.play.play-animate
-      //-   div.text-container
-      //-     p#text.text.slideInUp
-      //-       | Prepare to 
-      //-       span.red Press Play
-      //- // End mc_embed_signup
-
-
       p.footer.red.slideInDown Powered by Sublime Software
     script.
       fitty('#text');
